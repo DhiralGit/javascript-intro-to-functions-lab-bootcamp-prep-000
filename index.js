@@ -7,6 +7,7 @@ return String.toLowerCase()
 }
 
 function logShout(String) {
+<<<<<<< HEAD
   console.log(String.toUpperCase());
 }
 
@@ -23,3 +24,7 @@ function sayHiToGrandma(string){
 sayHiToGrandma("hello");
 sayHiToGrandma("HELLO");
 sayHiToGrandma("I love you, Grandma.");
+=======
+  console.log(logShout.toUpperCase);
+}
+>>>>>>> d76eb359f982137e7834e4b516030b292213249b
